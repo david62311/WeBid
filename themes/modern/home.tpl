@@ -178,7 +178,7 @@
 				<a class="list-group-item" href="{SITEURL}boards.php"><span class="glyphicon glyphicon-th-list" aria-hidden="true" style="padding-right: 10px;"></span>{L_5030}</a>
 	<!-- ENDIF -->
 	<!-- BEGIN helpbox -->
-				<a href="{SITEURL}viewhelp.php?cat={helpbox.ID}" alt="faqs" class="list-group-item new-window">{helpbox.TITLE}</a>
+				<a href="{SITEURL}viewhelp.php?cat={helpbox.ID}" class="list-group-item new-window">{helpbox.TITLE}</a>
 	<!-- END helpbox -->
 			</div>
 		</div>

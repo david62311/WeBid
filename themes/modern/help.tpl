@@ -10,11 +10,6 @@
 </head>
 <body>
 <div class="container">
-	<div class="row grid-margin-top-md">
-		<div class="col-md-12">
-			{LOGO}
-		</div>
-	</div>
 	<div class="row">
 		<div class="col-md-12">
 			<legend>

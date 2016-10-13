@@ -8,6 +8,9 @@
 </head>
 <body>
 <div class="container">
+	<div id="logo">
+		{LOGO}
+	</div>
 	<div class="content">
 		<div class="tableContent3">
 			<div class="titTable2 rounded-top rounded-bottom">

@@ -32,7 +32,7 @@
 <div class="wrapper rounded-top rounded-bottom">
 	<div class="splitbox">
 		<div class="leftside">
-			<a class="" href="{SITEURL}index.php">
+			<a class="" href="{SITEURL}">
 				<img src="{SITEURL}uploaded/logo/{LOGO}" border="0" alt="{SITENAME}">
 			</a>
 		</div>
@@ -46,7 +46,7 @@
 	</div>
 	<div class="navbar">
 		<ul>
-			<li><a href="{SITEURL}index.php">{L_166}</a></li>
+			<li><a href="{SITEURL}">{L_166}</a></li>
 <!-- IF B_CAN_SELL -->
 			<li><a href="{SITEURL}select_category.php">{L_028}</a></li>
 <!-- ENDIF -->

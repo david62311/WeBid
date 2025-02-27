@@ -37,7 +37,7 @@
 <body>
 <div class="container">
 	<div class="row header">
-		<a class="" href="{SITEURL}index.php">
+		<a class="" href="{SITEURL}">
 		<div class="col-md-6"><img src="{SITEURL}uploaded/logo/{LOGO}" border="0" alt="{SITENAME}"></div>
 		<div class="col-md-6 hidden-xs text-right">{BANNER}</div>
 	</div>
@@ -57,7 +57,7 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="{SITEURL}index.php?"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
+				<li><a href="{SITEURL}"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
 <!-- IF B_CAN_SELL -->
 				<li><a href="{SITEURL}select_category.php">{L_028}</a></li>
 <!-- ENDIF -->

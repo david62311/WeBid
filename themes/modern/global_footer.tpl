@@ -1,7 +1,7 @@
 	<br>
 	<div class="footer well" style="text-align: center;">
 		<small>
-			<a href="{SITEURL}index.php?">{L_166}</a>
+			<a href="{SITEURL}">{L_166}</a>
 <!-- IF B_CAN_SELL -->
 			| <a href="{SITEURL}select_category.php?">{L_028}</a>
 <!-- ENDIF -->
